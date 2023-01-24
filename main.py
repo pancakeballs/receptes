@@ -12,3 +12,4 @@ def izmaksas_kopa(abolusvars):
 
 aboli = 2.6
 print("Uz {} kg ābolu izmaksas būs {} EUR".format(aboli, izmaksas_kopa(aboli)))
+#testiņš
